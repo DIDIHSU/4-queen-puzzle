@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\4_Queen\4_Queen\bin\Debug\4_Queen.exe.config
+C:\Users\USER\Desktop\4_Queen\4_Queen\bin\Debug\4_Queen.exe
+C:\Users\USER\Desktop\4_Queen\4_Queen\bin\Debug\4_Queen.pdb
+C:\Users\USER\Desktop\4_Queen\4_Queen\obj\Debug\4_Queen.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\4_Queen\4_Queen\obj\Debug\4_Queen.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\4_Queen\4_Queen\obj\Debug\4_Queen.exe
+C:\Users\USER\Desktop\4_Queen\4_Queen\obj\Debug\4_Queen.pdb
